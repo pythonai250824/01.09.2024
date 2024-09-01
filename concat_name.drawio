@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.8">
+  <diagram name="Page-1" id="a4fzxQVyhqMLBElOmJyn">
+    <mxGraphModel dx="1512" dy="1221" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mnOFoiq0Q99e09Ja34rx-1" value="START" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-341" y="43" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mnOFoiq0Q99e09Ja34rx-2" value="STOP" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-349.25" y="417" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mnOFoiq0Q99e09Ja34rx-4" value="input 2 float numbers and print their diff&lt;br&gt;i.e. 10.5 5.3 =&amp;gt; 5.2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-459" y="-55" width="380" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="mnOFoiq0Q99e09Ja34rx-5" value="f_name (str)&lt;br&gt;&quot;what is your first name?&quot;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-368" y="132" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mnOFoiq0Q99e09Ja34rx-6" value="l_name (str)&lt;br&gt;&quot;what is your last name?&quot;" style="shape=card;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-363.5" y="215" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mnOFoiq0Q99e09Ja34rx-7" value="print(&#39;hello &#39; + f_name + &#39; &#39; + l_name + &#39;!&#39;)" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="-409" y="306" width="239.5" height="84" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
